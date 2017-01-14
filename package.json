@@ -1,0 +1,18 @@
+{
+  "name": "@kmokidd/wxapp-generator",
+  "version": "0.0.1",
+  "description": "a weixin-mini-program project generator",
+  "main": "index.js",
+  "author": "kmokidd",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "download-git-repo": "https://registry.npmjs.org/download-git-repo/-/download-git-repo-0.2.1.tgz",
+    "mkdirp": "^0.5.1",
+    "request": "^2.79.0"
+  },
+  "bin": {
+    "wxapp": "./index.js"
+  }
+}
